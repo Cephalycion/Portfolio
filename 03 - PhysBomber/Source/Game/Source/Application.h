@@ -1,0 +1,44 @@
+#ifndef APPLICATION_H
+#define APPLICATION_H
+
+#include "timer.h"
+#include <GL/glew.h>
+#include <GLFW/glfw3.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+#include "SceneManager.h"
+#include "ScenePlane.h"
+#include "SceneMenu.h"
+#include "SceneTank.h"
+#include "ScenePSelect.h"
+#include "SceneTSelect.h"
+#include "SceneScore.h"
+#include "SceneEnd.h"
+#include "Scene2Select.h"
+#include "Scene2P.h"
+#include "Scene2PEnd.h"
+
+class Application : public Singleton<Application>
+{
+public:
+	void Init();
+	void Run();
+	void Exit();
+	static bool IsKeyPressed(unsigned short key);
+	static bool IsMousePressed(unsigned short key);
+	static void GetCursorPos(double *xpos, double *ypos);
+	static int GetWindowWidth();
+	static int GetWindowHeight();
+	Application();
+	~Application();
+
+private:
+
+	//Declare a window object
+	StopWatch m_timer;
+
+	SceneManager* manager;
+};
+
+#endif

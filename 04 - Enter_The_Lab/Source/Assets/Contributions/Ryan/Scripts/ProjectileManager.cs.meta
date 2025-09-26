@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0d677dce8c06bc646961291ac7d01686
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blockedSound: {fileID: 8300000, guid: 3f43c70477639c44b8107b8a8cd43208, type: 3}
+  - impactSound: {fileID: 8300000, guid: 3f43c70477639c44b8107b8a8cd43208, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{04c64518-0c69-41d0-9c04-2f2fea0967d8}</ProjectGuid>
+    <RootNamespace>9Percent</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>$(SolutionDir)Extern\AlphaEngine\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Extern\AlphaEngine\lib;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)bin\$(Configuration)-$(Platform)\</OutDir>
+    <IntDir>$(SolutionDir).tmp\$(Configuration)-$(Platform)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>$(SolutionDir)Extern\AlphaEngine\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Extern\AlphaEngine\lib;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)bin\$(Configuration)-$(Platform)\</OutDir>
+    <IntDir>$(SolutionDir).tmp\$(Configuration)-$(Platform)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>Alpha_EngineD.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(SolutionDir)Assets\*" "$(OutDir)Assets\" /s /r /y /q
+xcopy "$(SolutionDir)Extern\AlphaEngine\lib\freetype.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(SolutionDir)Extern\AlphaEngine\lib\Alpha_EngineD.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(SolutionDir)Extern\AlphaEngine\lib\fmodL.dll" "$(OutDir)" /s /r /y /q</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>Alpha_Engine.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(SolutionDir)Assets\*" "$(OutDir)Assets\" /s /r /y /q
+xcopy "$(SolutionDir)Extern\AlphaEngine\lib\freetype.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(SolutionDir)Extern\AlphaEngine\lib\Alpha_Engine.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(SolutionDir)Extern\AlphaEngine\lib\fmod.dll" "$(OutDir)" /s /r /y /q</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="E_PatrollerStateMachine.cpp" />
+    <ClCompile Include="E_Utility.cpp" />
+    <ClCompile Include="G_ArcPredictor.cpp" />
+    <ClCompile Include="E_Asset.cpp" />
+    <ClCompile Include="E_AudioManager.cpp" />
+    <ClCompile Include="E_BaseState.cpp" />
+    <ClCompile Include="E_BaseStateMachine.cpp" />
+    <ClCompile Include="E_Button.cpp" />
+    <ClCompile Include="E_Camera.cpp" />
+    <ClCompile Include="E_Collision.cpp" />
+    <ClCompile Include="E_Constants.cpp" />
+    <ClCompile Include="E_Debug.cpp" />
+    <ClCompile Include="E_Engine.cpp" />
+    <ClCompile Include="E_Error.cpp" />
+    <ClCompile Include="E_AEEngineInterface.cpp" />
+    <ClCompile Include="E_IOManager.cpp" />
+    <ClCompile Include="E_LineRenderer.cpp" />
+    <ClCompile Include="E_ParticleSystem.cpp" />
+    <ClCompile Include="E_Physics.cpp" />
+    <ClCompile Include="E_SceneBase.cpp" />
+    <ClCompile Include="E_SceneFactory.cpp" />
+    <ClCompile Include="E_SceneManager.cpp" />
+    <ClCompile Include="E_Sprite.cpp" />
+    <ClCompile Include="E_Text.cpp" />
+    <ClCompile Include="E_TurretStateMachine.cpp" />
+    <ClCompile Include="G_Block.cpp" />
+    <ClCompile Include="G_BlockTexture.cpp" />
+    <ClCompile Include="G_ButtonBlock.cpp" />
+    <ClCompile Include="G_Constants.cpp" />
+    <ClCompile Include="G_EnemyBase.cpp" />
+    <ClCompile Include="G_DoorBlock.cpp" />
+    <ClCompile Include="G_EnemyPatroller.cpp" />
+    <ClCompile Include="G_EnemyBoss.cpp" />
+    <ClCompile Include="G_EnemyTurret.cpp" />
+    <ClCompile Include="G_GameState.cpp" />
+    <ClCompile Include="G_GrabDisplay.cpp" />
+    <ClCompile Include="G_GrappleHook.cpp" />
+    <ClCompile Include="G_HealthDisplay.cpp" />
+    <ClCompile Include="G_LevelObjects.cpp" />
+    <ClCompile Include="G_LiquidEmitter.cpp" />
+    <ClCompile Include="G_Map.cpp" />
+    <ClCompile Include="E_Parallax.cpp" />
+    <ClCompile Include="G_ParticleSystem.cpp" />
+    <ClCompile Include="G_PatrollerAnimTree.cpp" />
+    <ClCompile Include="G_Physics.cpp" />
+    <ClCompile Include="G_Player.cpp" />
+    <ClCompile Include="G_PlayerAnimationTree.cpp" />
+    <ClCompile Include="G_Projectile.cpp" />
+    <ClCompile Include="G_Scene_Credits.cpp" />
+    <ClCompile Include="G_Scene_Game.cpp" />
+    <ClCompile Include="E_Object.cpp" />
+    <ClCompile Include="E_Transform.cpp" />
+    <ClCompile Include="G_Scene_MainMenu.cpp" />
+    <ClCompile Include="G_Scene_Pause.cpp" />
+    <ClCompile Include="G_Scene_Splash.cpp" />
+    <ClCompile Include="G_Scene_Tutorial.cpp" />
+    <ClCompile Include="G_Sign.cpp" />
+    <ClCompile Include="G_TextLayer.cpp" />
+    <ClCompile Include="G_TiledBackground.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="G_Scene_Settings.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="G_PredictorProjectile.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E_BaseState.h" />
+    <ClInclude Include="E_BaseStateMachine.h" />
+    <ClInclude Include="E_ObjectLayer.h" />
+    <ClInclude Include="E_PatrollerStateMachine.h" />
+    <ClInclude Include="E_SafeVector.h" />
+    <ClInclude Include="E_Sprite.h" />
+    <ClInclude Include="E_AudioManager.h" />
+    <ClInclude Include="E_ParticleSystem.h" />
+    <ClInclude Include="E_TurretStateMachine.h" />
+    <ClInclude Include="E_Utility.h" />
+    <ClInclude Include="G_EnemyPatroller.h" />
+    <ClInclude Include="G_BlockTexture.h" />
+    <ClInclude Include="G_EnemyBoss.h" />
+    <ClInclude Include="G_GrabDisplay.h" />
+    <ClInclude Include="G_ArcPredictor.h" />
+    <ClInclude Include="G_Block.h" />
+    <ClInclude Include="E_Asset.h" />
+    <ClInclude Include="E_Button.h" />
+    <ClInclude Include="E_Camera.h" />
+    <ClInclude Include="E_Collision.h" />
+    <ClInclude Include="E_Constants.h" />
+    <ClInclude Include="E_Debug.h" />
+    <ClInclude Include="E_Engine.h" />
+    <ClInclude Include="E_Error.h" />
+    <ClInclude Include="E_AEEngineInterface.h" />
+    <ClInclude Include="E_IOManager.h" />
+    <ClInclude Include="E_Physics.h" />
+    <ClInclude Include="E_SceneBase.h" />
+    <ClInclude Include="E_SceneFactory.h" />
+    <ClInclude Include="E_SceneManager.h" />
+    <ClInclude Include="E_Text.h" />
+    <ClInclude Include="G_BlockEntity.h" />
+    <ClInclude Include="G_ButtonBlock.h" />
+    <ClInclude Include="G_Constants.h" />
+    <ClInclude Include="G_EnemyBase.h" />
+    <ClInclude Include="G_DoorBlock.h" />
+    <ClInclude Include="G_EnemyTurret.h" />
+    <ClInclude Include="G_GameState.h" />
+    <ClInclude Include="G_GrappleHook.h" />
+    <ClInclude Include="G_HealthDisplay.h" />
+    <ClInclude Include="G_LevelObjects.h" />
+    <ClInclude Include="G_LiquidEmitter.h" />
+    <ClInclude Include="E_Parallax.h" />
+    <ClInclude Include="G_ParticleSystem.h" />
+    <ClInclude Include="G_PatrollerAnimTree.h" />
+    <ClInclude Include="G_Physics.h" />
+    <ClInclude Include="G_Player.h" />
+    <ClInclude Include="G_PlayerAnimationTree.h" />
+    <ClInclude Include="G_Projectile.h" />
+    <ClInclude Include="G_Scene_Credits.h" />
+    <ClInclude Include="G_Scene_Game.h" />
+    <ClInclude Include="E_Singleton.h" />
+    <ClInclude Include="E_Object.h" />
+    <ClInclude Include="E_Transform.h" />
+    <ClInclude Include="G_Scene_MainMenu.h" />
+    <ClInclude Include="G_Map.h" />
+    <ClInclude Include="E_LineRenderer.h" />
+    <ClInclude Include="G_Scene_Pause.h" />
+    <ClInclude Include="G_Scene_Settings.h" />
+    <ClInclude Include="G_Scene_Splash.h" />
+    <ClInclude Include="G_Scene_Tutorial.h" />
+    <ClInclude Include="G_Sign.h" />
+    <ClInclude Include="G_TextLayer.h" />
+    <ClInclude Include="G_TiledBackground.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="G_PredictorProjectile.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

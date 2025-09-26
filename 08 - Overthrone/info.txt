@@ -1,0 +1,80 @@
+Game Name: OverThrone
+
+Team Name: 9Percent
+
+Class-Section: CSD1451s24-A
+
+All content © 2024 DigiPen Institute of Technology Singapore. All Rights Reserved
+
+
+OverThrone is a 2D side-scrolling action-puzzle platformer where the King has gone mad
+from paranoia due to the countless wars he has waged, seeing everyone as a potential
+enemy and has secluded himself deep within the castle, ordering his guards to execute
+those he sees as enemies. The common folk, seeing this tyranny unfold, have ignited a
+revolt to dethrone the Mad King. Equipped with the knowledge and skills passed down
+from the very first Stonemasons that built the kingdom, pick up and throw rocks and
+swing from platform to platform as you lead the charge into the castle to topple the
+Mad King's rule and free the people!
+
+
+Notes:
+This game can only be played via mouse & keyboard.
+Use mouse and press [Left Click] to interact with UI buttons.
+Press ESC or P to open pause menu while in game.
+Game controls can be found by clicking the "How To Play" button in the main menu.
+  - [A,D] Move Left/Right
+  - [Space] Jump / Swim up
+  - [S] Swim down
+  - [Shift] Dash
+  - [Left Click] Pick Up/Throw Block
+  - [Hold Right Click] Grapple
+
+Cheat Keys:
+0 = Freecam (arrow keys to control the camera)
+9 = Noclip
+8 = Godmode (invincibility)
+K = Suicide
+L = Kill Boss Instantly
+N = Nuke
+M = Timewarp (0.2x game speed)
+, = Prev Level
+. = Next Level
+/ = Demo Level (this will permanently set the demo level as playable after beating level 3. restart the game to unset this.)
+
+
+Credits:
+
+- Developers
+Kendrick Sim Hean Guan (kendrickheanguan.s@digipen.edu)
+Matthew Chan Shao Jie (m.chan@digipen.edu)
+Ryan Chan Kuan Fu (c.kuanfuryan@digipen.edu)
+Marc Alviz Evangelista (marcalviz.e@digipen.edu)
+
+- Instructors
+Gerald Wong
+Ding Xiang Cheng
+Im Hyeong Sun (Teaching Assistant)
+
+- President
+Claud Cormair
+
+- Executives
+Jason CHU
+Michele Cormair
+Melvin Gonsalvez
+Christopher Cormair
+Raymond Yan
+Prasanna Ghali
+Dr. Charles Duba
+John Bauer
+Angela Kuger
+Bell Ellinger
+Johnny Deek
+Michael Gats
+Samir Abou Samra
+Dr. Erik Mohrmann
+
+Audio Engine: FMOD Studio by Firelight Technologies Pty Ltd.
+
+Created at Digipen Institute of Technology Singapore.
+All content © 2024 DigiPen Institute of Technology Singapore. All Rights Reserved

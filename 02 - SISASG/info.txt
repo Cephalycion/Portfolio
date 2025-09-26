@@ -1,0 +1,50 @@
+SISASG USER GUIDE
+This text file explains how to navigate SISASG in detail and gives in-depth instructions with developer input about the game.
+
+MENUS SCREEN
+This is the screen that we start with. Use the mouse and the left mouse button to select either "START GAME" or "SHOP".
+
+SHOP
+You can browse and purchase spaceships in the shop. VEL and ACL represent top velocity and acceleration respectively. 
+The users' total money is displayed on the top left while the cost of the spaceship is displayed on the top right.
+Hover the mouse over the left/right sides of the screen and use the left mouse button or the 'A'/'D' keys to look at different spaceships.
+Left click the centre of the screen to purchase a spaceship; you can only do so if you have enough money.
+Once you are done, press the 'R' key to save your progress and return to the MENUS SCREEN.
+
+START GAME
+First, you are presented a screen where the player can select spaceships.
+Similarly, to the SHOP, hover the mouse over the left/right sides of the screen and use the left mouse button or the 'A'/'D' keys to look at different spaceships. 
+Left click the centre of the screen to select a spaceship; you can only do so if you have unlocked it.
+Upon selecting a ship, you will be shown a series of planets to select from. Navigate the screen just as before with either the mouse or the 'A'/'D' keys.
+Left click the centre of the screen to select a planet. This will start the GAME SCREEN.
+If at any point in time where you would like to reset your choices and return to the MENUS SCREEN, press the 'R' key.
+
+GAME SCREEN
+The spaceship starts out at rest at the world origin. Use the 'W'/'S' keys to accelerate or decelerate. Use the ARROW KEYS to pitch and yaw. Use the 'Q'/'E' keys to roll. Note that turning the spaceship will result in some deceleration.
+The objective is to pass through the blue hoops in the least amount of time possible. One pass of a hoop counts as one point.
+You can also press the 'SPACE' key to fire a bullet from the spaceship. Bullets can destroy asteroids and every asteroid destroyed grants an additional 10 currency at the end of the game.
+Once all hoops are passed or the time runs out, the game will end and start the STAT SCREEN.
+You may return to the MENUS SCREEN with the 'R' key. However, doing so while the GAME SCREEN is running will not save your progress.
+
+STAT SCREEN
+The statistics of the game such as POINTS OBTAINED and TIME REMAINING will be shown on screen.
+The amount of money earned by the player is calculated by multiplying the POINTS OBTAINED by the TIME REMAINING, then adding the money earned from destroying asteroids.
+Once you are done, press the 'R' key to save your progress and return to the MENUS SCREEN.
+
+SECRET CODES
+CTRL + Shift - Activate Magisk Mode
+The follow Keybinds requires Magisk mode to be enabled
+CS = Ctrl + Shift
+CS + O -> Changes Title Music. This cannot be reverted.
+CS + U -> Credits Screen
+Backspace -> If Credits Screen is opened, it will close it
+To Exit from Magisk Mode, press CTRL + SHIFT & Backspace.
+
+FEATURES IMPLEMENTED BY ME
+Pitch/Yaw/Roll
+Velocity/Acceleration
+Third Person Camera
+Shop & Currency
+State Flow & Transfer
+Lighting Effects
+User Interface

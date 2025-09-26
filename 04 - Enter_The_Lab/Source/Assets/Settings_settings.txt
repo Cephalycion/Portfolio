@@ -1,0 +1,7 @@
+{
+    "Volume": 1.0,
+    "SFXVolume": 1.0,
+    "DisableAllShaders": false,
+    "DisableTVEffect": false,
+    "BloomIntensity": 1.0
+}

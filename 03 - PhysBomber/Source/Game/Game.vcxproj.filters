@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Source\Tank\PlayerTank.cpp" />
+    <ClCompile Include="Source\Button\Button.cpp" />
+    <ClCompile Include="Source\HighScoreSystem.cpp" />
+    <ClCompile Include="Source\HighscoreSystem.h" />
+    <ClCompile Include="Source\Plane\A10.cpp" />
+    <ClCompile Include="Source\Plane\Komet.cpp" />
+    <ClCompile Include="Source\Plane\Plane.cpp" />
+    <ClCompile Include="Source\Scene.cpp" />
+    <ClCompile Include="Source\SceneEnd.cpp" />
+    <ClCompile Include="Source\ScenePSelect.cpp" />
+    <ClCompile Include="Source\SceneScore.cpp" />
+    <ClCompile Include="Source\SceneTank.cpp" />
+    <ClCompile Include="Source\SceneTSelect.cpp" />
+    <ClCompile Include="Source\Tank\TurretTank.cpp" />
+    <ClCompile Include="Source\Terrain.cpp" />
+    <ClCompile Include="Source\Application.cpp" />
+    <ClCompile Include="Source\Camera.cpp" />
+    <ClCompile Include="Source\GameObject.cpp" />
+    <ClCompile Include="Source\GOManager.cpp" />
+    <ClCompile Include="Source\LoadOBJ.cpp" />
+    <ClCompile Include="Source\LoadTGA.cpp" />
+    <ClCompile Include="Source\main.cpp" />
+    <ClCompile Include="Source\Material.cpp" />
+    <ClCompile Include="Source\Mesh.cpp" />
+    <ClCompile Include="Source\MeshBuilder.cpp" />
+    <ClCompile Include="Source\ScenePlane.cpp" />
+    <ClCompile Include="Source\SceneManager.cpp" />
+    <ClCompile Include="Source\SceneMenu.cpp" />
+    <ClCompile Include="Source\shader.cpp" />
+    <ClCompile Include="Source\Utility.cpp" />
+    <ClCompile Include="Source\Tank\Tank.cpp" />
+    <ClCompile Include="Source\Scene2P.cpp" />
+    <ClCompile Include="Source\Scene2Select.cpp" />
+    <ClCompile Include="Source\Enemy\Plane\PlaneEnemy.cpp" />
+    <ClCompile Include="Source\Enemy\Tank\TankEnemy.cpp" />
+    <ClCompile Include="Source\Plane\Harrier.cpp" />
+    <ClCompile Include="SoundEngine\SoundEngine.cpp" />
+    <ClCompile Include="Source\Scene2PEnd.cpp" />
+    <ClCompile Include="Source\zcustompch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Tank\PlayerTank.h" />
+    <ClInclude Include="Source\Button\Button.h" />
+    <ClInclude Include="Source\Plane\A10.h" />
+    <ClInclude Include="Source\Plane\Komet.h" />
+    <ClInclude Include="Source\SceneEnd.h" />
+    <ClInclude Include="Source\ScenePSelect.h" />
+    <ClInclude Include="Source\SceneScore.h" />
+    <ClInclude Include="Source\SceneTank.h" />
+    <ClInclude Include="Source\SceneTSelect.h" />
+    <ClInclude Include="Source\Plane\Plane.h" />
+    <ClInclude Include="Source\Tank\TurretTank.h" />
+    <ClInclude Include="Source\Terrain.h" />
+    <ClInclude Include="Source\Application.h" />
+    <ClInclude Include="Source\Camera.h" />
+    <ClInclude Include="Source\GameObject.h" />
+    <ClInclude Include="Source\GOManager.h" />
+    <ClInclude Include="Source\Light.h" />
+    <ClInclude Include="Source\LoadOBJ.h" />
+    <ClInclude Include="Source\LoadTGA.h" />
+    <ClInclude Include="Source\Material.h" />
+    <ClInclude Include="Source\Mesh.h" />
+    <ClInclude Include="Source\MeshBuilder.h" />
+    <ClInclude Include="Source\Scene.h" />
+    <ClInclude Include="Source\ScenePlane.h" />
+    <ClInclude Include="Source\SceneManager.h" />
+    <ClInclude Include="Source\SceneMenu.h" />
+    <ClInclude Include="Source\shader.hpp" />
+    <ClInclude Include="Source\Utility.h" />
+    <ClInclude Include="Source\Vertex.h" />
+    <ClInclude Include="Source\Tank\Tank.h" />
+    <ClInclude Include="Source\Scene2P.h" />
+    <ClInclude Include="Source\Scene2Select.h" />
+    <ClInclude Include="Source\Enemy\Plane\PlaneEnemy.h" />
+    <ClInclude Include="Source\Enemy\Tank\TankEnemy.h" />
+    <ClInclude Include="Source\Enemy\EnemyBase.h" />
+    <ClInclude Include="Source\Plane\Harrier.h" />
+    <ClInclude Include="SoundEngine\SoundEngine.h" />
+    <ClInclude Include="Source\Scene2PEnd.h" />
+    <ClInclude Include="Source\zcustompch.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shader\comg.frag" />
+    <None Include="Shader\comg.vert" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Scores\highscores.txt" />
+    <Text Include="SaveData\highscores.txt" />
+    <Text Include="SaveData\monies.txt" />
+  </ItemGroup>
+</Project>

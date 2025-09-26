@@ -1,0 +1,6 @@
+A simple exercise to get acquainted with a new framework.
+
+CONTROLS
+Spacebar to pause/unpause
+Left click while paused to place cells
+Esc to exit the application

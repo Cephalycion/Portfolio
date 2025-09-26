@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3373878327296500182
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3373878327296500183}
+  - component: {fileID: 3373878327296500180}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3373878327296500183
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3373878327296500182}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3373878327296500180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3373878327296500182}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 696b06f71e1023545a632df6c28df690, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - clip: {fileID: 8300000, guid: a6ac7ec69c39a3548a18c06ec14f5b16, type: 3}
+    name: PistolBang
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: b8d9c0916168f1d45b2259e0a9d9d76a, type: 3}
+    name: PistolDry
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 0555632133b10d8459496766c5573e67, type: 3}
+    name: PistolLoad
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: e4f324cced178474abec71603af5f1a9, type: 3}
+    name: RifleBang
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 8d652906b0d7f144f94f33d66708d1c4, type: 3}
+    name: RifleDry
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 342ad5613c6c6894886540c121b5b5ac, type: 3}
+    name: RifleLoad
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: d2a4798f123d1e84289bd3a8686838dc, type: 3}
+    name: ShotgunBang
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: b52cfe45ea790be40a08ee5bb1e86555, type: 3}
+    name: ShotgunDry
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: d7cf912a593baf6429e48265327a6d6a, type: 3}
+    name: ShotgunLoad
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 2ef781873244b8342a418006c1574792, type: 3}
+    name: Select
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 50daddc3e2f19da4c9c25953fbf1e98f, type: 3}
+    name: ImpactEnvironment
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 0}
+    name: 
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: ae89d39244fa27d43b90911cbe29d5cf, type: 3}
+    name: ImpactPlayer
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 558ac6e774aee2e4087b27359d67087d, type: 3}
+    name: ImpactShield
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 25fdfeafe059cd5428f7420f6be1b466, type: 3}
+    name: Jetpack
+    volume: 0.5
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 6e2934793da943745a9ff9c0e9481165, type: 3}
+    name: 1
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 33111e5d8cc290a42af6dcff62a8c8e8, type: 3}
+    name: 2
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 587d478854bce754298dbd461fe3bb6f, type: 3}
+    name: 3
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 11ce3644a46614e4aa2665eb3c242869, type: 3}
+    name: 4
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 101a9e59a4696f24cac8b1e2ac2ab9b5, type: 3}
+    name: 5
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: e6b725b8323de8843ab1e53b0410dfa1, type: 3}
+    name: 6
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 33d3be8e5d43c00428c67eff45a48a4e, type: 3}
+    name: 7
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 0bc340a15b3a72e42b576c4583e6bc3c, type: 3}
+    name: 8
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 8078545eaca6ecb469db52c1b7b2df1e, type: 3}
+    name: 9
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 8851695ae3621174cbd73485eed191c0, type: 3}
+    name: Powerup
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 02a09c5ab3117fa4086701e1ce2ac923, type: 3}
+    name: EnemyDeath
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: c7b6c9467b24b4444a23b1cff8118950, type: 3}
+    name: PlayerDeath
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: a3387088aa854694084f61f36e94afbc, type: 3}
+    name: BuildTo
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 413aa93b2fd1fe647bea03b288691b13, type: 3}
+    name: BuildFrom
+    volume: 1
+    source: {fileID: 0}
+  - clip: {fileID: 0}
+    name: 
+    volume: 1
+    source: {fileID: 0}

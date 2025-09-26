@@ -1,0 +1,4379 @@
+{
+    "data": [
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "W_Corner",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Corner",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 2
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "DoorOpen",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "DoorOpen",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "Phone",
+            "BaseName": "P_TableCM",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "Computer",
+            "BaseName": "P_TableCM",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "Manga",
+            "BaseName": "P_TableCM",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Manga",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 2
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 2
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Phone",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Phone",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 2
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "DoorOpen",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 3,
+            "TopName": "none",
+            "BaseName": "W_TWall",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Diploma",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 3
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Laptop",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Manga",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "DoorOpen",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCR",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "Computer",
+            "BaseName": "P_TableCL",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "Diploma",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 3
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 2,
+            "TopName": "none",
+            "BaseName": "P_Chair",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 3,
+            "TopName": "none",
+            "BaseName": "W_TWall",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_TWall",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 3,
+            "TopName": "none",
+            "BaseName": "W_TWall",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "DoorOpen",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_DoorClosed",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 1
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 1
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 3,
+            "TopName": "none",
+            "BaseName": "W_TWall",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_DoorClosed",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 1
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "Diploma",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 3
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 1
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "P_Table",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "W_Wall",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 1,
+            "TopName": "none",
+            "BaseName": "Window",
+            "Obstacle": true,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        },
+        {
+            "Rotation": 0,
+            "TopName": "none",
+            "BaseName": "none",
+            "Obstacle": false,
+            "type": 0
+        }
+    ]
+}

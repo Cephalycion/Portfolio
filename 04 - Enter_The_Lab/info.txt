@@ -1,0 +1,39 @@
+HOW TO PLAY
+Each player has an inventory and currency
+Currency is used to purchase students
+Equip 4 students before entering a game
+Each student has health, damage, speed and abilities
+Win condition is killing all students of a team / acquiring 10 Diploma Points
+1 Diploma Point is acquired for each diploma captured by a team at the start of the team’s turn
+A win nets more currency than a loss
+
+CAMERA CONTROLS
+Camera Panning is done by clicking and dragging on the level
+Camera rotation is done through the Q/E keys or two on-screen buttons
+
+STUDENT CONTROLS
+Click on an ability on the ability bar (Bottom center of the screen) to use
+
+MOVEMENT
+Click on movement ability and click on a grid within the highlighted area to move to that grid with BFS Pathing
+
+ATTACK
+Click on attack ability and click on enemy student within highlighted area to shoot a projectile to that grid
+Projectiles can be blocked by other enemies or obstacles
+
+OVERWATCH
+Student will attack the first enemy student that steps into attack range during the next opponent’s turn
+
+HUNKER
+Student will receive reduced damage if attacked during the next opponent’s turn
+
+PROCRASTINATE
+Student will skip their moves
+
+FEATURES IMPLEMENTED BY ME
+Grid Generation
+Unit Controls/Types/Stats
+Movement Range
+BFS Pathfinding
+Camera Controls
+User Interface
